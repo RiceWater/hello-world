@@ -5,6 +5,8 @@ It's pretty much needed for work, but it's also really useful for personal proje
 
 UPDATE: The project I volunteered in will be using GitHub. Boy, I sure wish I already knew how to use it! Oh, well. On a random note, I got a loss-streak on LoL, and that really ticked me off...
 
+UPDATE 2: This should be in the other branch, then it'll be for checking
+
 [Google](https://google.com)
 
 Created by yours truly,
